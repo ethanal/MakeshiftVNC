@@ -9,5 +9,4 @@ Run `python server.py <port>` and browse to the server's IP on a different compu
 ## Contact
 Ethan Lowman
 - https://github.com/ethanal
-- https://twitter.com/ethanalowman
-- github@ethanlowman.com
+- ethan@ethanlowman.com
